@@ -1,9 +1,13 @@
 # adaJS
 AdaJS Barcelona. Workshop JavaScript para principiantes
 =======================================================
+http://ada.barcelonajs.org/ca/index.html
+
 https://www.facebook.com/adabcnJS
 
 https://twitter.com/adabcnjs
+
+http://www.meetup.com/es/AdaBcnJS/
 
 
 Contenido
