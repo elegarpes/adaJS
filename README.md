@@ -12,7 +12,7 @@ http://www.meetup.com/es/AdaBcnJS/
 
 Contenido
 ---------
-http://slides.com/adajs/jsforbeginners#/
+http://slides.com/adajs/jsforbeginners/live
 
 Taller
 ------
